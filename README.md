@@ -26,6 +26,7 @@ Para executar a aplicação localmente, é necessário ter instalado:
 ## ▶️ Executando com Docker
 
 Para executar, basta ir no terminal e ditar o comando:
+
 Constução da Imagem Docker - 
   ```bash
   docker build -t loja-backend .
